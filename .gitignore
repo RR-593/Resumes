@@ -1,6 +1,7 @@
 *
 !.gitignore
 !resume.json
+!portfolio.json
 !Portfolio.md
 !images/
 !images/**
