@@ -1,0 +1,105 @@
+{
+  "name": "Raphael Munoz",
+  "contact": {
+    "email": "Raphael@Munoz.to",
+    "phone": "0433 110 076",
+    "citizenship": "Australian Citizen",
+    "location": "Sydney, NSW 2026"
+  },
+  "tagline": "Full Stack Uni Student Developer",
+  "skills": [
+    "Frontend",
+    "Backend",
+    "SQL Scripting",
+    "Docker",
+    "Git",
+    "Leadership Skills",
+    "Autonomous",
+    "Agile development models",
+    "Microsoft Office proficient"
+  ],
+  "languages": [
+    "Java",
+    "Ruby",
+    "C",
+    "Php",
+    "JavaScript",
+    "Python",
+    "Html",
+    "Css",
+    "TypeScript",
+    "Bash",
+    "SQL"
+  ],
+  "experience": [
+    {
+      "company": "Paliguard Pty Ltd",
+      "role": "Security Operations Centre Operator",
+      "dates": "January 2025 - October 2025",
+      "bullets": [
+        "Monitoring CCTV, responding to alerts and alarms, and escalating incidents.",
+        "Documenting incidents and occurrences in a timely manner.",
+        "Communicating with onsite security personnel, company Duty Officers and Police",
+        "Coordinating response (CSG and other Emergency Services) to incidents",
+        "Reviewing footage and providing footage to Police as requested"
+      ]
+    },
+    {
+      "company": "Paliguard Pty Ltd",
+      "role": "Security Officer",
+      "dates": "January 2022 - October 2025",
+      "bullets": [
+        "Led, coordinated and managed security teams of up to 10 people, schedules, rosters and deployments.",
+        "Controlled unauthorized entry to restricted areas.",
+        "Manage and direct crowds during private and public events, or gatherings.",
+        "Coordinate with emergency responders and law enforcement when required.",
+        "Patrolling and Monitoring assigned areas for early incident reporting and or neutralising threats.",
+        "Operate and monitor security systems such as CCTV, alarm systems, and metal detectors.",
+        "Managed confidentiality of sensitive information of security of premises and company."
+      ]
+    },
+    {
+      "company": "Ixonn, Sydney",
+      "role": "Software Developer",
+      "dates": "Periodic contract work between 2022 - 2024",
+      "bullets": [
+        "Evaluation of problem statements and possible technical software solutions.",
+        "Development and testing of coding solutions to specific features for the CRM, Purchasing, Inventory, Invoicing that the company produces.",
+        "Rendering and parsing PDF documents from code.",
+        "Maintained static websites in AWS, using CloudFront, Lambda and S3.",
+        "Maintained code in GitLab and GitHub, using gitflow and branch management",
+        "Involved in testing and release activities.",
+        "Proficient in Visual Studio and SQL Studio application, coding in PHP, JavaScript, HTML and CSS."
+      ]
+    },
+    {
+      "company": "Hospitality, Various locations",
+      "role": "Bartender",
+      "dates": "August 2020 - April 2024",
+      "bullets": [
+        "Worked as a bartender for multiple companies, including stadiums, restaurants and football clubs.",
+        "Responsible for distribution of wines, beer and cocktails.",
+        "Manage inventory of remote bars for weddings, birthdays and graduation celebrations.",
+        "Handle a chaotic environment and calmly serve hoards of customers at once with professional etiquette."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Macquarie University",
+      "qualification": "Bachelor of IT (Software Technology major)",
+      "year": "2026",
+      "notes": "Mobile development"
+    },
+    {
+      "institution": "SECTA",
+      "qualification": "CPP20218 Certificate II in Security Operations",
+      "year": "2022"
+    },
+    {
+      "institution": "Moriah College",
+      "qualification": "High school certificate",
+      "year": "2018"
+    }
+  ]
+}
